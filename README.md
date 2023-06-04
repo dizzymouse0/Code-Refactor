@@ -1,6 +1,6 @@
 # Code-Refactor
 
-http://127.0.0.1:5500/index.html
+https://dizzymouse0.github.io/Code-Refactor/
 
 ## Project description: 
 To refactor html and css into a more concise and semantic styling along with adding accessibility attributes to reach a wider audience and improve compliance. Completed by assigning semantic elements in standardized fashion and adding alt tags to images.
